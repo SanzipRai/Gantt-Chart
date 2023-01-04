@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T11:01:10.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="qxsmZ-Nfi2IL7O6Lhmkl" type="github"><diagram id="oOQKUGHdcv4kbrCEqK-a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T11:19:38.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="C_R9kUOQIC_CqXWM4gOe" type="github">
+  <diagram id="i6-jjb-FDlDpryZ1BBn5" name="Page-1">
+    <mxGraphModel dx="1434" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wTnZNapMU--EH73EzL-5-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.564;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.339;entryY=0.044;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.695;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.017;exitY=0.663;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-1" target="wTnZNapMU--EH73EzL-5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-1" value="&lt;b&gt;Bike Management System&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="132" y="149" width="233" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-2" value="Add Inventory" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-146" y="22" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-3" value="Inventory Details" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="148" y="-55" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-4" target="wTnZNapMU--EH73EzL-5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-4" value="Inventory pirce" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="493" y="286" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.76;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-5" target="wTnZNapMU--EH73EzL-5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-5" value="Remove Inventory" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-19" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.648;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-6" target="wTnZNapMU--EH73EzL-5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-6" value="User_Details" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="303" y="-43" width="114" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-7" value="Date of restriction" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="69" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.285;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-8" target="wTnZNapMU--EH73EzL-5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-8" value="Report about the inventory every week" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="-49" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-9" value="Data of taken&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Add%20Inventory%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-135%22%20y%3D%2270%22%20width%3D%22139%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-227" y="113" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.395;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wTnZNapMU--EH73EzL-5-10" target="wTnZNapMU--EH73EzL-5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-10" value="Date of approved" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="354" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-11" value="Login or Sign up" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="223" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-12" value="Display all the details of all inventory" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="313" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-13" value="Display the details of all Inventory in Bar graph" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="339" width="178" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="wTnZNapMU--EH73EzL-5-14" value="Display the details of all Inventory in Data Grid view" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="523" y="153" width="203" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
